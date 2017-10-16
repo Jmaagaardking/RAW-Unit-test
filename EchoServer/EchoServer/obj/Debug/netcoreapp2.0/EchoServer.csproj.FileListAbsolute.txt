@@ -1,0 +1,22 @@
+/Users/Kontoen/Projects/EchoServer/EchoServer/obj/Debug/netcoreapp2.0/EchoServer.csproj.CoreCompileInputs.cache
+/Users/Kontoen/Projects/EchoServer/EchoServer/obj/Debug/netcoreapp2.0/EchoServer.AssemblyInfoInputs.cache
+/Users/Kontoen/Projects/EchoServer/EchoServer/obj/Debug/netcoreapp2.0/EchoServer.AssemblyInfo.cs
+/Users/Kontoen/Projects/EchoServer/EchoServer/obj/Debug/netcoreapp2.0/EchoServer.csprojResolveAssemblyReference.cache
+/Users/Kontoen/Projects/EchoServer/EchoServer/bin/Debug/netcoreapp2.0/EchoServer.deps.json
+/Users/Kontoen/Projects/EchoServer/EchoServer/bin/Debug/netcoreapp2.0/EchoServer.runtimeconfig.json
+/Users/Kontoen/Projects/EchoServer/EchoServer/bin/Debug/netcoreapp2.0/EchoServer.runtimeconfig.dev.json
+/Users/Kontoen/Projects/EchoServer/EchoServer/bin/Debug/netcoreapp2.0/EchoServer.dll
+/Users/Kontoen/Projects/EchoServer/EchoServer/bin/Debug/netcoreapp2.0/EchoServer.pdb
+/Users/Kontoen/Projects/EchoServer/EchoServer/obj/Debug/netcoreapp2.0/EchoServer.dll
+/Users/Kontoen/Projects/EchoServer/EchoServer/obj/Debug/netcoreapp2.0/EchoServer.pdb
+C:\Users\hijak\OneDrive\Dokumenter\Visual Studio 2017\Projects\EchoServer\EchoServer\bin\Debug\netcoreapp2.0\EchoServer.deps.json
+C:\Users\hijak\OneDrive\Dokumenter\Visual Studio 2017\Projects\EchoServer\EchoServer\bin\Debug\netcoreapp2.0\EchoServer.runtimeconfig.json
+C:\Users\hijak\OneDrive\Dokumenter\Visual Studio 2017\Projects\EchoServer\EchoServer\bin\Debug\netcoreapp2.0\EchoServer.runtimeconfig.dev.json
+C:\Users\hijak\OneDrive\Dokumenter\Visual Studio 2017\Projects\EchoServer\EchoServer\bin\Debug\netcoreapp2.0\EchoServer.dll
+C:\Users\hijak\OneDrive\Dokumenter\Visual Studio 2017\Projects\EchoServer\EchoServer\bin\Debug\netcoreapp2.0\EchoServer.pdb
+C:\Users\hijak\OneDrive\Dokumenter\Visual Studio 2017\Projects\EchoServer\EchoServer\obj\Debug\netcoreapp2.0\EchoServer.csprojResolveAssemblyReference.cache
+C:\Users\hijak\OneDrive\Dokumenter\Visual Studio 2017\Projects\EchoServer\EchoServer\obj\Debug\netcoreapp2.0\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\hijak\OneDrive\Dokumenter\Visual Studio 2017\Projects\EchoServer\EchoServer\obj\Debug\netcoreapp2.0\EchoServer.AssemblyInfoInputs.cache
+C:\Users\hijak\OneDrive\Dokumenter\Visual Studio 2017\Projects\EchoServer\EchoServer\obj\Debug\netcoreapp2.0\EchoServer.AssemblyInfo.cs
+C:\Users\hijak\OneDrive\Dokumenter\Visual Studio 2017\Projects\EchoServer\EchoServer\obj\Debug\netcoreapp2.0\EchoServer.dll
+C:\Users\hijak\OneDrive\Dokumenter\Visual Studio 2017\Projects\EchoServer\EchoServer\obj\Debug\netcoreapp2.0\EchoServer.pdb

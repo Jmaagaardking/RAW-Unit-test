@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{12F16B1A-F046-4FB9-B63B-AC271EF3D72B}|Default">
+  <MonoDevelop.Ide.ItemProperties.EchoServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EchoServer/Program.cs">
+    <Files>
+      <File FileName="EchoServer/Program.cs" Line="24" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
